@@ -1,0 +1,34 @@
+Emp. Name, ID ###, Department:
+Jane Jameson, 101, CS
+Current salary: $12100.0
+Pay earned to date: $80400.0
+Full-Time Employee
+
+Sam Samuelson, 156, IT
+Current salary: $9000.0
+Pay earned to date: $63000.0
+Part-Time Employee
+
+Bob Boberson, 104, CS
+Current salary: $10450.0
+Pay earned to date: $73150.0
+Full-Time Employee
+
+Tim Thomason, 136, IT
+Current salary: $10000.0
+Pay earned to date: $70000.0
+Part-Time Employee
+
+Mike Michaelson, 188, IS
+Not employed with the company.
+Pay earned to date: $32000.0
+Full-Time Employee
+
+Jason Jasonson, 190, IS
+Current salary: $7875.0
+Pay earned to date: $47250.0
+Part-Time Employee
+
+Total number of employees: 6
+Average salary paid to all Full-Time employees: $7516.67
+Average salary paid to all Part-Time employees: $8958.33
